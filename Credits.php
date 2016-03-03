@@ -24,7 +24,8 @@
                     </table>
                 </div>
 
-
+                <?php include_once("navbar.html"); ?>
+                <!--
                 <div id="nav">
                     <table width="100%">
                         <tr>
@@ -58,6 +59,7 @@
                         </tr>
                     </table>
                 </div>
+                -->
 
 
                 <div id="page">
@@ -81,10 +83,12 @@
                 </div>
 
 
+                <?php include_once("footer.html"); ?>
+                <!--
                 <div id="footer">
                     <a href="http://www.rit.edu" target="_blank">Rochester Insitute of Technology</a> | Copyright - JBioframework Team 2013 | All Rights Reserved
                 </div>
-
+                -->
 
                 <!--END CONTENT-->
             </div>
