@@ -19,6 +19,7 @@
 
 
                     <h1>  JBioframeWork  </h1>
+                    <a href="https://sourceforge.net/projects/jbf/files/latest/download" rel="nofollow"><img alt="Download JBioFramework" src="https://a.fsdn.com/con/app/sf-download-button"></a>
                     <a href="http://sourceforge.net/projects/jbf/"> Click Here visit the files page on sourceforge and download the latest release</a>
                     <h1>  MarvinSketch  </h1>
                     <a href="http://www.chemaxon.com/products/marvin/marvinsketch"> Click Here to download ChemAxon's MarvinSketch.</a>
