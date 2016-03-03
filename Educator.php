@@ -24,41 +24,7 @@
           </table>
         </div>
 
-        <!-- replace with php include -->
-        <div id="nav">
-          <table width="100%">
-            <tr>
-              <td style="border-right: 1px solid white;">
-                <a href="index.html" >What is JBioFramework</a> 
-              </td>
-                             
-              <td>
-                <a href="Publications.html" >Publications</a>
-              </td>
-                          
-              <td>
-                <a href="Presentations.html" >Presentations</a>
-              </td>
-               
-              <td>
-                <a href="Team.html" >The Team</a>
-              </td>
-                 
-              <td>
-                <a href="Credits.html" >Credits</a>
-              </td>
-                 
-              <td>
-                <a href="Educator.html" >For Educators</a>
-              </td>
-                 
-              <td style="border-right:none;">
-                <a href="Downloads.html" >Downloads</a>
-              </td>
-            </tr>
-          </table>
-        </div>
-
+        <?php include_once("header.html"); ?>
 
         <div id="page">
             
@@ -101,10 +67,8 @@
         </div>
     
     
-        <!-- replace with php include -->
-        <div id="footer">
-            <a href="http://www.rit.edu" target="_blank">Rochester Insitute of Technology</a> | Copyright - JBioframework Team 2013 | All Rights Reserved
-        </div>
+        <?php include_once("footer.html"); ?>
+
 
       </div>
     </div>
